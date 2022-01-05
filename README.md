@@ -1,8 +1,8 @@
 # Facial Expression Recognition
 
 ## Mobile App
-Our mobile app can be accessed here: https://facial-expression-recogn-b4a85.web.app/ <br>
-Note: you may run into permission issues with iPhones on the Safari browser
+My mobile app can be accessed here: https://facial-expression-recogn-b4a85.web.app/ <br>
+Note: You may run into permission issues with iPhones on the Safari browser
 
 ## ABSTRACT
 In modern days,Communicating turned into the most and significant point in our lifes.One
